@@ -1,6 +1,16 @@
 # Grad-school-projects
-These are all of the projects I created while in grad school. Below is an index to the course numbers and content. I am currently updating this page, so there is more to come.
+These are all of the projects I created while in grad school. Below is an index to the course numbers and content. I have presented them in chronological order to demonstrate my progression with coding and writing technical content. The projects presented herein are unedited from the original submissions for a grade. More theoretical material in Statistics and Econometrics is not reflected here. I am currently updating this page, so there is more to come.
 
-MATH 6101: Uncertainty Quantification -- This was a class that taught numerical and computational methods for updating linear models to create probability distributions and statistics for underlying processes such as random fields or when modeling the error structure.
+MATH 5387 (Summer 2018): Applied Regression Analysis -- This was a graduate class in linear regression and linear modeling. My final project, completed with a classmate, was a classification analysis of womens' access to healthcare in Malawi. Data was sourced from the Demographic & Health Surveys microdata accessible via IPUMS [https://www.idhsdata.org/idhs/]. 
 
-MATH 6388: Advanced Statstical Research Methods -- This was a statistical and machine learning class. This including paramtetric and non-parametric prediction methods, data visualization, methods for model selection, and neural networks.
+ECON 6073 (Fall 2018): Research Seminar -- This was the Economics MA thesis class. I used a fixed effects model to examine the long-term effects of Mexico's PROGRESA cash transfer program (now called Prospera). I sourced data from Mexico's publicly available data sources on the program.
+
+MATH 6388 (Fall 2018): Advanced Statstical Research Methods -- This was a statistical and machine learning class. This included parametric and non-parametric prediction methods, data visualization, methods for model selection, and neural networks. My final project in the class applied support vector machines to the MNIST handwriting data [http://yann.lecun.com/exdb/mnist/].
+
+MATH 6101 (Fall 2019): Uncertainty Quantification -- This was a class in numerical and computational methods for updating linear models to recover probability distributions for underlying processes in the presence of sophisticated sources of stochastic error. I did not have a final project, so I have shown my homework submissions for the class.
+
+MS Stats Project (Spring 2020): This was my culminating project for the MS in Applied Statistics. I applied Data-Consistent Inversion (an emerging UQ technique) to COPDGene [http://www.copdgene.org/] data to model sources of stochastic error in lung function measurements.
+
+MATH 6330 (Spring 2020): Statistical Consulting Workshop -- This class paired students with businesses and organizations in the local area to apply students' expertise to solve problems or contribute to projects. I was proud to be paired with the CO Womens' Chamber of Commerce to create a survey to help leadership learn about how their members are benefitting -- or not -- from the CWCC programming. We were able to create and updated survey, but sadly, it has not yet been delpoyed due to COVID-19. I am still working with them to deploy the survey, so more to come. The content I've posted here reflects my detailed study of survey and sampling design methods for the project.
+
+ECON 7661 (Spring 2020): Health Economics -- This was a class in health care markets. This was not a particularly technical class. However, I have posted a project that required recreating, from sourcing the data to final results, the empirical stragey used in the paper The Affordable Care Act and Ambulance Responce Times [https://doi.org/10.1016/j.jhealeco.2019.05.010]. I really enjoyed this project, and I enjoy econometric models and working with STATA.
