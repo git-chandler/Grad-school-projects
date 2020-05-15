@@ -1,5 +1,5 @@
 # Grad-school-projects
-These are all of the projects I created while in grad school. Below is an index to the course numbers and content. I have presented them in chronological order to demonstrate my progression with coding and writing technical content. The projects presented herein are unedited from the original submissions for a grade. More theoretical material in Statistics and Econometrics is not reflected here. I am currently updating this page, so there is more to come.
+These are all of the projects I created while in grad school. Below is an index to the course numbers and content. I have presented them in chronological order to demonstrate my progression with coding and writing technical content. The projects presented herein are unedited from the original submissions for a grade. More theoretical material in Statistics and Econometrics is not reflected here. File types are: .do - STATA do files; .ipynb - Juptyer Notebook; .R - R; .pdf - printable document format.
 
 MATH 5387 (Summer 2018): Applied Regression Analysis -- This was a graduate class in linear regression and linear modeling. My final project, completed with a classmate, was a classification analysis of womens' access to healthcare in Malawi. Data was sourced from the Demographic & Health Surveys microdata accessible via IPUMS [https://www.idhsdata.org/idhs/]. 
 
